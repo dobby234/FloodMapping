@@ -81,16 +81,6 @@ The name *Kole* derives from a Malayalam word for a field capable of yielding a 
 - ♻️ Groundwater recharge, nutrient cycling, and carbon storage
 - 🌡️ Climate resilience and extreme rainfall event analysis
 
----
-
-## ⚠️ Context & Threats
-
-Despite their ecological and economic importance, the Kole wetlands face mounting pressures:
-
-- Rapid **urbanization** and land-use transformation
-- **Wetland reclamation** for agriculture and development
-- **Climate-induced extreme rainfall** events (as seen in the 2018 Kerala floods)
-- Limited availability of high-resolution spatial datasets at the padasekharam scale
 
 ---
 
