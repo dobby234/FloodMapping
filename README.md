@@ -78,8 +78,6 @@ The name *Kole* derives from a Malayalam word for a field capable of yielding a 
 
 - 🌊 Natural flood mitigation and wetland hydrology
 - 🗺️ High-resolution GIS digitization of wetland ecosystems
-- 🌾 Wetland agroecosystem services (rice farming, inland fisheries)
-- 🐦 Biodiversity and avifaunal habitat assessment
 - ♻️ Groundwater recharge, nutrient cycling, and carbon storage
 - 🌡️ Climate resilience and extreme rainfall event analysis
 
@@ -99,20 +97,6 @@ Despite their ecological and economic importance, the Kole wetlands face mountin
 ## 📎 Keywords
 
 `Kole Wetlands` · `Flood Retention Efficiency` · `Natural Flood Mitigation` · `Flood Susceptibility` · `Wetland Digitization` · `Kerala 2018 Floods` · `Ramsar Wetlands` · `ArcGIS Pro` · `Hydrological Modelling`
-
----
-
-## 📄 Related Work
-
-This study builds upon a published GIS-based digitization study of the Thrissur North Kole wetlands, extending it into an integrated flood analysis framework.
-
-> *Presented at AGIT — Symposium and Fair for Geoinformatics*
-
----
-
-## 📬 Contact
-
-For queries or collaboration, please open an issue or reach out via the repository contact.
 
 ---
 
