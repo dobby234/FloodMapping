@@ -21,7 +21,6 @@ The Kole wetlands are one of the largest low-lying floodplain wetland agroecosys
 - Independently replicate and extend a GIS-based digitization of the Thrissur North Kole wetlands at the *padasekharam* (bund-enclosed paddy unit) level
 - Build a comprehensive **geospatial database** of wetland boundaries suitable for hydrological assessment
 - Evaluate the **flood retention efficiency** of individual padasekharams during the **2018 Kerala floods**
-- Develop a **flood susceptibility model** integrating topographic and hydrological variables
 - Quantify the wetland's role in regional **flood mitigation and climate resilience**
 
 ---
